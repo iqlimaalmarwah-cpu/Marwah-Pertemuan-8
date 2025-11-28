@@ -4,3 +4,4 @@ nama: Al-marwah iqlima
 NIM : 1252002004
 Jurusan : Sistem Informasi 
 Minat : Content Creator 
+Saya sedang belajar git dan github
